@@ -1,0 +1,101 @@
+header{
+  height:42px;
+  margin: 53px auto 17px auto;
+  display: inline-block;
+}
+body {
+  margin: 0px;
+  background-color: #EDF2C5;
+}
+footer {
+	font-family: ArialMT Regular, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	width: auto;
+	height: 32px;
+	padding: 15px;
+	background-color: #778A50;
+}
+
+footer p{
+	color: #EDF2C5;
+}
+h1{
+  width:271px;
+  height: 42px;
+  box-sizing: border-box;
+  padding: 0px 0px 13px 0px;
+  float: left;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  font-family: "Arial Black";
+  margin: 8px;
+  font-size:44px;
+  color:#778A50;
+}
+.botton_box{
+  float: right;
+  margin-top: 53px;
+}
+.community{
+  display: inline-block;
+}
+.btn_facebook img{
+  vertical-align: bottom;
+  margin-right: 7px;
+}
+.btn_instagram img{
+  vertical-align: bottom;
+	margin-right: 7px;
+}
+.member{
+  display: inline-block;
+  font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 3px;
+	color: #778A50;
+	border-left: 1px solid #778A50;
+	line-height: 25px;
+	margin-bottom: 17px;
+	vertical-align: top;
+}
+.login{
+	margin-bottom: 7px;
+	border-radius: 3px;
+	border: 1px solid;
+	padding: 3px 5px;
+  background-color: #EDF2C5;
+  color: #778A50;
+}
+.join{
+	margin-bottom: 7px;
+	border-radius: 3px;
+	border: 1px solid;
+	padding: 3px 5px;
+  background-color: #EDF2C5;
+  color: #778A50;
+}
+
+.box ul{
+  width:900px;
+  margin:0px;
+  padding-top: 10px;
+  background: #778A50;
+  border-radius: 3px;
+  float: left;
+}
+
+.box li{
+  display: flex;
+  margin: 16px 30px 16px 30px;
+  align-items: center;
+}
+
+.box a{
+  font-family: "Arial Black";
+  font-size: 16px;
+  color:#EDF2C5;
+  text-decoration: none;
+}
